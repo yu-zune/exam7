@@ -27,7 +27,8 @@ POST /employee/_search
 
 
 -- 3-2) QNA 오라클 테이블을 그대로 복제해서 ElasticSearch에 인덱스로 만드는 로그스태쉬 conf 파일을 작성하세요
-
+-- qna.conf
 
 -- 3-3) FAQ 오라클 테이블을 그대로 복제해서 ElasticSearch에 인덱스로 만드는 로그스태쉬 conf 파일을 작성하세요
+-- faq.conf
 
